@@ -10,6 +10,8 @@ Ekaterina Levitskaya , 	Trang Tran Linh Dam, Shalmali Chandrashekhar Kulkarni , 
 The project which the team drafted is identifying and visualizing older adult-friendly NYC neighborhoods pitched by Rebecca Rosen
 
 ## Data
+The data the team used was:
+
 **Health Facilities:** https://health.data.ny.gov/Health/Health-Facility-Map/875v-tpc8
 
 **Farmer Markets:** https://data.ny.gov/Economic-Development/Farmers-Markets-in-New-York-State-Map/gfni-eg8a
