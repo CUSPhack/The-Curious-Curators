@@ -1,7 +1,7 @@
 # The Curious Curators
 Team for Hackday Spring 2017
 
-## Team Members:
+## Team Members
 
 Ekaterina Levitskaya , 	Trang Tran Linh Dam, Shalmali Chandrashekhar Kulkarni , and Enrique Sanz
 
