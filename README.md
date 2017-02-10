@@ -8,3 +8,6 @@ Ekaterina Levitskaya , 	Trang Tran Linh Dam, Shalmali Chandrashekhar Kulkarni , 
 ## Team Project
 
 The project which the team drafted is identifying and visualizing older adult-friendly NYC neighborhoods pitched by Rebecca Rosen
+
+## Data
+
